@@ -1,0 +1,55 @@
+html{
+    margin:0;
+    min-height: 100%;
+}
+
+#header{
+    font-size:20px;
+    color:rgb(172, 0, 0);
+    text-align:center;
+}
+#headerContainer{
+    padding:0 35vw 0 35vw;
+}
+#row{
+    padding:1vh 0 1vh 0;
+}
+label{
+    font-size: 20px;
+    text-decoration: bold;
+}
+input{
+     width:30vw;
+     height:4vh;
+     border-radius:10px;
+}
+#submit{
+    background-color: rgb(1, 100, 1);
+    color:#fff;
+    border-radius:8px;
+    border:none;
+    font-size: 1.1vw;
+    width:12vw;
+    height:6vh;
+    margin-top:2vh;
+}
+#submit:hover{
+    background-color: rgb(2, 2, 2);
+}
+#table-container{
+    padding:5vh 20vw 0 20vw;
+}
+table{
+
+    text-align: center;
+}
+#table-header{
+    background-color:rgb(0, 0, 0);
+    color:white;
+    font-size:15px;
+    height:4vh;
+    border:none;
+}
+td{
+    width:15vw;
+}

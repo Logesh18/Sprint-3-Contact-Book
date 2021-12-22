@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+html{
+    margin:0;
+    border:none;
+    min-height: 100%;
+    font-family: 'Poppins', sans-serif;
+
+}
+body{
+    background-color: rgb(228, 228, 228);
+    /* background-image: url("https://images.unsplash.com/photo-1598956421870-c7c3f7141dd0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Ymx1ZSUyMGNsb3Vkc3xlbnwwfHwwfHw%3D&w=1000&q=80"); */
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height:100%;
+    opacity:0.9;
+}
